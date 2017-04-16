@@ -865,6 +865,10 @@ body.nav-opened .nav {
     background: none;
 }
 
+.home-template .page-title, .home-template .page-description, .home-template .home-template a.menu-button {
+  color: #010101;
+}
+
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
     margin: 10px 0 10px 0;
