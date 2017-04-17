@@ -20,9 +20,10 @@
 
 &lt;h2 id=&quot;analytics-improvements&quot;&gt;Analytics Improvements&lt;/h2&gt;
 
-&lt;p&gt;Now in the analytics tab there is more information for each task. Now with a glance you can see how long a task has been worked on, or not worked on.&lt;/p&gt;
+&lt;p&gt;Now at a glance you can see how long a task has been worked on, or not worked on.&lt;/p&gt;
 
-&lt;p&gt;At the top of each task detail there is a percentage now. This let’s you know which tasks are utilizing the most of your projects time.&lt;/p&gt;
+&lt;p&gt;At the top of each task detail there is a percentage of project time utilized. 
+This let’s you know which tasks are utilizing the most of the currently selected projectss total time.&lt;/p&gt;
 
 &lt;p&gt;And of course, you can still select which types of times are rendered by simply tapping &lt;em&gt;Unstarted&lt;/em&gt;, &lt;em&gt;Active&lt;/em&gt;, &lt;em&gt;Paused&lt;/em&gt;, or &lt;em&gt;Completed&lt;/em&gt;.&lt;/p&gt;
 
