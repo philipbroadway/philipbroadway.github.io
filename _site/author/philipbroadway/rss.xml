@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>philipbroadway.com</title>
+   
+   <link>www.philipbroadway.com</link>
+   <description>Application Design & Development</description>
+   <language>en-uk</language>
+   <managingEditor> Philip Broadway</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Falling for javascript..again.</title>
+	  <link>//using-modern-js-packages-like-enums</link>
+	  <author>Philip Broadway</author>
+	  <pubDate>2018-02-18T00:45:00-08:00</pubDate>
+	  <guid>//using-modern-js-packages-like-enums</guid>
+	  <description><![CDATA[
+	     <p>I’m not going to cover all the new features, but I’d like to share one i’ve been using in my side project, Activobot.</p>
+
+<p>This project is just a health &amp; fitness app with a few simple goals:</p>
+
+<ol>
+  <li>Accurately determine how many calories a person needs in a day to keep the lights on</li>
+  <li>Track caloric input (from meals) &amp; caloric output(from activities like exercises etc)</li>
+</ol>
+
+<p>As it turns out accurately calculating the amount of calories we burn from different activities is a rather complex multi-step process!</p>
+
+<p>There is an overwhelming amount of data, equations, case studies, and latin. (obligatory et all).</p>
+
+<p>I started the project with swift4 in late 2017. Enums were perfect for representing different states and types for things like units of measurement. 
+Structs I found were also perfect for representing my data structures for the user biometrics and meals.</p>
+
+<p>Fast forward to NYE in 2018. <br />
+I decided to take all the old research data I’d already collected and rebuild using modern js so I could practice learning React &amp; Redux.</p>
+
+<p>For me, part of the beauty of swift is its expressivness and how it allows us to build small functional building blocks that can be composed together.</p>
+
+<p>So in my path to porting code to Javascript I was first looking for a way to create something like a swift enum for some constants without a gigantic shared constants file.
+My original constants file was starting to get cluttered and some constant names were getting long in order to differentiate different contexts</p>
+
+<p>While integrating Redux I noticed in the documentation its usage of imports to create objects representing seperate javascript constants files and decided to use the same pattern.</p>
+
+<pre>
+  <code class="javascript">
+
+
+
+
+
+
+
+
+</code></pre>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Listabot Plus Size Update!</title>
+	  <link>//plus-size-release</link>
+	  <author>Philip Broadway</author>
+	  <pubDate>2017-04-17T03:00:00-07:00</pubDate>
+	  <guid>//plus-size-release</guid>
+	  <description><![CDATA[
+	     <!-- ![Plus sized project browsing](assets/images/blog/plus-sized-edition/plus-sized-project-browsing.png) -->
+
+<p><a href="http://www.listabot.com">Listabot</a> v1.04 is live in the <a href="https://itunes.apple.com/us/app/listabot/id1212689677">App Store</a> now!</p>
+
+<p>If you have a plus-sized iPhone or an iPad this update adds support for viewing projects &amp; tasks side by side!</p>
+
+<p><img src="assets/images/blog/plus-sized-edition/timeline-iphone-plus.jpg" alt="Timeline Screen Shot" /></p>
+
+<p>The timeline also has an an improved interace which allows you to filter &amp; select your times at the same time.</p>
+
+<p><img src="assets/images/blog/plus-sized-edition/analytics-update.png" alt="Analytics Screen Shot" /></p>
+
+<h2 id="analytics-improvements">Analytics Improvements</h2>
+
+<p>Now at a glance you can see how long a task has been worked on, or not worked on.</p>
+
+<p>At the top of each task detail there is a percentage of project time utilized. 
+This let’s you know which tasks are utilizing the most of the currently selected projectss total time.</p>
+
+<p>And of course, you can still select which types of times are rendered by simply tapping <em>Unstarted</em>, <em>Active</em>, <em>Paused</em>, or <em>Completed</em>.</p>
+
+<p><img src="assets/images/blog/plus-sized-edition/user-guides.png" alt="User Guides Screen Shot" /></p>
+
+<h2 id="user-guides">User Guides</h2>
+
+<p>The updated user guide for your device will always be shown after updating.<br />
+You can always look at this again in the <em>Settings</em> tab.</p>
+
+<p>Both  <a href="http://www.listabot.com/assets/listabot-guide-iphone-1.03.pdf">iPhone</a> and <a href="http://www.listabot.com/assets/listabot-guide-ipad-1.03.pdf">iPad</a> user guides are also available on the <a href="http://www.listabot.com">Listabot</a> website under the support tab.</p>
+
+<p>If you are interested in learning about new features as they are released, please join the <a href="http://eepurl.com/cKCi3n">mailing list</a> or just stay in touch on the <a href="https://www.facebook.com/listabot">Facebook page</a>.</p>
+
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Project Planning</title>
+	  <link>//project-planning</link>
+	  <author>Philip Broadway</author>
+	  <pubDate>2017-04-10T03:00:00-07:00</pubDate>
+	  <guid>//project-planning</guid>
+	  <description><![CDATA[
+	     <p>I suggest trying to break up all the tasks that make up your project into as many discrete “single serving” tasks as possible.
+The reason for doing this is simple. <br />
+We want to be able to measure &amp; communicate progress for you and your client. 
+Small tasks can be worked on or paused as needed.<br />
+This allows you to complete tasks in the order that makes sense for you, while still being able to see overall progress being made.<br />
+This is important data for you &amp; for your client!</p>
+
+<p>If your only task is “To finish the project!” depending on what the project is, that “task” could take a LONG time!</p>
+
+<p>The goal is to not just to record <em>how much</em> time has been used, but to discover <em>where</em> time is being utilized.</p>
+
+<hr />
+<p>Interested in receiving more tips and updates as they are released? 
+Join our <a href="http://eepurl.com/cKCi3n">mailing list</a> and like Listabot on our <a href="http://facebook.com/listabot">Facebook  page</a>!</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Listabot v1.01 Launch</title>
+	  <link>//listabot-launch</link>
+	  <author>Philip Broadway</author>
+	  <pubDate>2017-04-08T03:00:00-07:00</pubDate>
+	  <guid>//listabot-launch</guid>
+	  <description><![CDATA[
+	     <p>Today I released my first public version of <a href="http://www.listabot.com">Listabot</a> in the <a href="https://itunes.apple.com/us/app/listabot/id1212689677">App Store</a></p>
+
+<p>I’ve contracted &amp; freelanced on &amp; off for many years.</p>
+
+<p>Over the course of those years I’ve used many different platforms for tracking billable hours.</p>
+
+<p>Most require an account to setup before you can even enter a task and actually get to work.</p>
+
+<p>In a small team environment, you might even end up assigning one person to just master the system.</p>
+
+<p>That sole person would then be responsible for assigning &amp; maintaining the tasks.</p>
+
+<p>The Taskmaster.</p>
+
+<p>It’s ironic that something used to track time, could actually end up wasting so much of your time. 
+Your team’s time.</p>
+
+<p>Except that wasted time isn’t just a hassle - those are billable hours you’ve just lost.</p>
+
+<p><img src="assets/images/blog/listabot-v1.01/new-challenger.jpg" alt="Screen shot from Street Fighter of a new challenger appearing" /></p>
+
+<p>I’ve made  <a href="http://www.listabot.com">Listabot</a> to minimize the friction for simply tracking your billable hours spent on project tasks.</p>
+
+<p>The benefits for tracking your billable hours become apparent over time.</p>
+
+<p>Obviously, tracking your billable hours is important if you want to get paid for your work.</p>
+
+<p>But <em>how</em> you track your time can also save time when you are making estimates for your next project.</p>
+
+<p>With your past performance accurately recorded &amp; easy to analyze, you not only have a record to improve on, but a measuring stick.</p>
+
+<p>This isn’t just your invoice, this is your record to improve upon.
+A tool for spotting pain-points &amp; anticipated where more time will be spent.</p>
+
+<p>I have a roadmap of features I’m implementing incrementally.</p>
+
+<p>I’d like to begin adding these features &amp; others as they are requested by users like <em>you</em>.</p>
+
+<p>My mission with this app will always be to keep billable hour tracking <em>simple &amp; intuitive</em>.</p>
+
+<p>If you are interested in learning about new features as they are released, please join the <a href="http://eepurl.com/cKCi3n">mailing list</a> or just stay in touch on the <a href="https://www.facebook.com/listabot">Facebook page</a>.</p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

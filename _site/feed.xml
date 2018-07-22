@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philip Broadway - Articles</title>
+    <description>Application Design &amp; Development</description>
+    <link>
+    www.philipbroadway.com</link>
+    
+      
+      <item>
+        <title>Falling for javascript..again.</title>
+        
+          <description>&lt;p&gt;I’m not going to cover all the new features, but I’d like to share one i’ve been using in my side project, Activobot.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 18 Feb 2018 00:45:00 -0800</pubDate>
+        <link>
+        www.philipbroadway.com/using-modern-js-packages-like-enums</link>
+        <guid isPermaLink="true">www.philipbroadway.com/using-modern-js-packages-like-enums</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Listabot Plus Size Update!</title>
+        
+          <description>&lt;!-- ![Plus sized project browsing](assets/images/blog/plus-sized-edition/plus-sized-project-browsing.png) --&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.listabot.com&quot;&gt;Listabot&lt;/a&gt; v1.04 is live in the &lt;a href=&quot;https://itunes.apple.com/us/app/listabot/id1212689677&quot;&gt;App Store&lt;/a&gt; now!&lt;/p&gt;
+
+&lt;p&gt;If you have a plus-sized iPhone or an iPad this update adds support for viewing projects &amp;amp; tasks side by side!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/blog/plus-sized-edition/timeline-iphone-plus.jpg&quot; alt=&quot;Timeline Screen Shot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The timeline also has an an improved interace which allows you to filter &amp;amp; select your times at the same time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/blog/plus-sized-edition/analytics-update.png&quot; alt=&quot;Analytics Screen Shot&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;analytics-improvements&quot;&gt;Analytics Improvements&lt;/h2&gt;
+
+&lt;p&gt;Now at a glance you can see how long a task has been worked on, or not worked on.&lt;/p&gt;
+
+&lt;p&gt;At the top of each task detail there is a percentage of project time utilized. 
+This let’s you know which tasks are utilizing the most of the currently selected projectss total time.&lt;/p&gt;
+
+&lt;p&gt;And of course, you can still select which types of times are rendered by simply tapping &lt;em&gt;Unstarted&lt;/em&gt;, &lt;em&gt;Active&lt;/em&gt;, &lt;em&gt;Paused&lt;/em&gt;, or &lt;em&gt;Completed&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/blog/plus-sized-edition/user-guides.png&quot; alt=&quot;User Guides Screen Shot&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;user-guides&quot;&gt;User Guides&lt;/h2&gt;
+
+&lt;p&gt;The updated user guide for your device will always be shown after updating.&lt;br /&gt;
+You can always look at this again in the &lt;em&gt;Settings&lt;/em&gt; tab.&lt;/p&gt;
+
+&lt;p&gt;Both  &lt;a href=&quot;http://www.listabot.com/assets/listabot-guide-iphone-1.03.pdf&quot;&gt;iPhone&lt;/a&gt; and &lt;a href=&quot;http://www.listabot.com/assets/listabot-guide-ipad-1.03.pdf&quot;&gt;iPad&lt;/a&gt; user guides are also available on the &lt;a href=&quot;http://www.listabot.com&quot;&gt;Listabot&lt;/a&gt; website under the support tab.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in learning about new features as they are released, please join the &lt;a href=&quot;http://eepurl.com/cKCi3n&quot;&gt;mailing list&lt;/a&gt; or just stay in touch on the &lt;a href=&quot;https://www.facebook.com/listabot&quot;&gt;Facebook page&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 17 Apr 2017 03:00:00 -0700</pubDate>
+        <link>
+        www.philipbroadway.com/plus-size-release</link>
+        <guid isPermaLink="true">www.philipbroadway.com/plus-size-release</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Project Planning</title>
+        
+          <description>&lt;p&gt;I suggest trying to break up all the tasks that make up your project into as many discrete “single serving” tasks as possible.
+The reason for doing this is simple. &lt;br /&gt;
+We want to be able to measure &amp;amp; communicate progress for you and your client. 
+Small tasks can be worked on or paused as needed.&lt;br /&gt;
+This allows you to complete tasks in the order that makes sense for you, while still being able to see overall progress being made.&lt;br /&gt;
+This is important data for you &amp;amp; for your client!&lt;/p&gt;
+
+&lt;p&gt;If your only task is “To finish the project!” depending on what the project is, that “task” could take a LONG time!&lt;/p&gt;
+
+&lt;p&gt;The goal is to not just to record &lt;em&gt;how much&lt;/em&gt; time has been used, but to discover &lt;em&gt;where&lt;/em&gt; time is being utilized.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Interested in receiving more tips and updates as they are released? 
+Join our &lt;a href=&quot;http://eepurl.com/cKCi3n&quot;&gt;mailing list&lt;/a&gt; and like Listabot on our &lt;a href=&quot;http://facebook.com/listabot&quot;&gt;Facebook  page&lt;/a&gt;!&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 10 Apr 2017 03:00:00 -0700</pubDate>
+        <link>
+        www.philipbroadway.com/project-planning</link>
+        <guid isPermaLink="true">www.philipbroadway.com/project-planning</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Listabot v1.01 Launch</title>
+        
+          <description>&lt;p&gt;Today I released my first public version of &lt;a href=&quot;http://www.listabot.com&quot;&gt;Listabot&lt;/a&gt; in the &lt;a href=&quot;https://itunes.apple.com/us/app/listabot/id1212689677&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve contracted &amp;amp; freelanced on &amp;amp; off for many years.&lt;/p&gt;
+
+&lt;p&gt;Over the course of those years I’ve used many different platforms for tracking billable hours.&lt;/p&gt;
+
+&lt;p&gt;Most require an account to setup before you can even enter a task and actually get to work.&lt;/p&gt;
+
+&lt;p&gt;In a small team environment, you might even end up assigning one person to just master the system.&lt;/p&gt;
+
+&lt;p&gt;That sole person would then be responsible for assigning &amp;amp; maintaining the tasks.&lt;/p&gt;
+
+&lt;p&gt;The Taskmaster.&lt;/p&gt;
+
+&lt;p&gt;It’s ironic that something used to track time, could actually end up wasting so much of your time. 
+Your team’s time.&lt;/p&gt;
+
+&lt;p&gt;Except that wasted time isn’t just a hassle - those are billable hours you’ve just lost.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/blog/listabot-v1.01/new-challenger.jpg&quot; alt=&quot;Screen shot from Street Fighter of a new challenger appearing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve made  &lt;a href=&quot;http://www.listabot.com&quot;&gt;Listabot&lt;/a&gt; to minimize the friction for simply tracking your billable hours spent on project tasks.&lt;/p&gt;
+
+&lt;p&gt;The benefits for tracking your billable hours become apparent over time.&lt;/p&gt;
+
+&lt;p&gt;Obviously, tracking your billable hours is important if you want to get paid for your work.&lt;/p&gt;
+
+&lt;p&gt;But &lt;em&gt;how&lt;/em&gt; you track your time can also save time when you are making estimates for your next project.&lt;/p&gt;
+
+&lt;p&gt;With your past performance accurately recorded &amp;amp; easy to analyze, you not only have a record to improve on, but a measuring stick.&lt;/p&gt;
+
+&lt;p&gt;This isn’t just your invoice, this is your record to improve upon.
+A tool for spotting pain-points &amp;amp; anticipated where more time will be spent.&lt;/p&gt;
+
+&lt;p&gt;I have a roadmap of features I’m implementing incrementally.&lt;/p&gt;
+
+&lt;p&gt;I’d like to begin adding these features &amp;amp; others as they are requested by users like &lt;em&gt;you&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;My mission with this app will always be to keep billable hour tracking &lt;em&gt;simple &amp;amp; intuitive&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in learning about new features as they are released, please join the &lt;a href=&quot;http://eepurl.com/cKCi3n&quot;&gt;mailing list&lt;/a&gt; or just stay in touch on the &lt;a href=&quot;https://www.facebook.com/listabot&quot;&gt;Facebook page&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 08 Apr 2017 03:00:00 -0700</pubDate>
+        <link>
+        www.philipbroadway.com/listabot-launch</link>
+        <guid isPermaLink="true">www.philipbroadway.com/listabot-launch</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
