@@ -12,6 +12,54 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Falling for javascript..again.</title>
+	  <link>//using-modern-js-packages-like-enums</link>
+	  <author>Philip Broadway</author>
+	  <pubDate>2018-02-18T00:45:00-08:00</pubDate>
+	  <guid>//using-modern-js-packages-like-enums</guid>
+	  <description><![CDATA[
+	     <p>I’m not going to cover all the new features, but I’d like to share one i’ve been using in my side project, Activobot.</p>
+
+<p>This project is just a health &amp; fitness app with a few simple goals:</p>
+
+<ol>
+  <li>Accurately determine how many calories a person needs in a day to keep the lights on</li>
+  <li>Track caloric input (from meals) &amp; caloric output(from activities like exercises etc)</li>
+</ol>
+
+<p>As it turns out accurately calculating the amount of calories we burn from different activities is a rather complex multi-step process!</p>
+
+<p>There is an overwhelming amount of data, equations, case studies, and latin. (obligatory et all).</p>
+
+<p>I started the project with swift4 in late 2017. Enums were perfect for representing different states and types for things like units of measurement. 
+Structs I found were also perfect for representing my data structures for the user biometrics and meals.</p>
+
+<p>Fast forward to NYE in 2018. <br />
+I decided to take all the old research data I’d already collected and rebuild using modern js so I could practice learning React &amp; Redux.</p>
+
+<p>For me, part of the beauty of swift is its expressivness and how it allows us to build small functional building blocks that can be composed together.</p>
+
+<p>So in my path to porting code to Javascript I was first looking for a way to create something like a swift enum for some constants without a gigantic shared constants file.
+My original constants file was starting to get cluttered and some constant names were getting long in order to differentiate different contexts</p>
+
+<p>While integrating Redux I noticed in the documentation its usage of imports to create objects representing seperate javascript constants files and decided to use the same pattern.</p>
+
+<pre>
+  <code class="javascript">
+
+
+
+
+
+
+
+
+</code></pre>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Listabot Plus Size Update!</title>
 	  <link>//plus-size-release</link>
 	  <author>Philip Broadway</author>
