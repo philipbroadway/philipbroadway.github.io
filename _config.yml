@@ -7,14 +7,14 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Philip Broadway'
+description: "Application Design & Development"
 
-short_url: 'jekyllt.github.io/jasper/'
-google_analytics: UA-69281367-1
+short_url: 'philipbroadway.github.io/philipbroadway.github.io/'
+google_analytics: UA-79224204-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /philipbroadway.github.io/
 
 # Permalinks
 permalink: /:title
@@ -45,13 +45,13 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyllt
-repo: jasper
+username: philipbroadway
+repo: philipbroadway.github.io
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://jekyllt.github.io/jasper/
-source_url:  https://github.com/jekyllt/jasper/
+relative_source: ../philipbroadway.github.io/
+destination: ../philipbroadway.github.io-pages/
+production_url:  https://philipbroadway.github.io/philipbroadway.github.io/
+source_url:  https://github.com/philipbroadway/philipbroadway.github.io/
 
 exclude:
   - README.md
