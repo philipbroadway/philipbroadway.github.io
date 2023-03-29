@@ -1,4 +1,3 @@
-## Jasper
 
 ## Copyright & License
 
