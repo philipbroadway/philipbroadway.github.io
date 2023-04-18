@@ -4,7 +4,7 @@
     <title>Philip Broadway - Articles</title>
     <description>Application Design &amp; Development</description>
     <link>
-    </link>
+    http://localhost:4000</link>
     
       
       <item>
@@ -16,8 +16,8 @@
         
         <pubDate>Fri, 07 Apr 2017 18:00:00 -0600</pubDate>
         <link>
-        /listabot-update</link>
-        <guid isPermaLink="true">/listabot-update</guid>
+        http://localhost:4000/listabot-update</link>
+        <guid isPermaLink="true">http://localhost:4000/listabot-update</guid>
       </item>
       
     
@@ -34,8 +34,8 @@ This is important data for you &amp;amp; for your client!&lt;/p&gt;
         
         <pubDate>Fri, 07 Apr 2017 18:00:00 -0600</pubDate>
         <link>
-        /project-planning</link>
-        <guid isPermaLink="true">/project-planning</guid>
+        http://localhost:4000/project-planning</link>
+        <guid isPermaLink="true">http://localhost:4000/project-planning</guid>
       </item>
       
     
@@ -88,8 +88,8 @@ A tool for spotting pain-points &amp;amp; anticipated where more time will be sp
         
         <pubDate>Fri, 07 Apr 2017 18:00:00 -0600</pubDate>
         <link>
-        /listabot-launch</link>
-        <guid isPermaLink="true">/listabot-launch</guid>
+        http://localhost:4000/listabot-launch</link>
+        <guid isPermaLink="true">http://localhost:4000/listabot-launch</guid>
       </item>
       
     
