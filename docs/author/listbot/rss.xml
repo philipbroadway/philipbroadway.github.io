@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>philipbroadway.github.io/philipbroadway.github.io/</title>
+   
+   <link></link>
+   <description>Application Design & Development</description>
+   <language>en-us</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>ListaBot Launch</title>
+	  <link>/philipbroadway.github.io//listabot-launch</link>
+	  <author></author>
+	  <pubDate>2017-04-07T18:00:00-06:00</pubDate>
+	  <guid>/philipbroadway.github.io//listabot-launch</guid>
+	  <description><![CDATA[
+	     <p>Today I released my first public version of <a href="http://www.listabot.com">Listabot</a> in the <a href="https://itunes.apple.com/us/app/listabot/id1212689677">App Store</a></p>
+
+<p>I’ve contracted &amp; freelanced on &amp; off for many years.</p>
+
+<p>Over the course of those years I’ve used many different platforms for tracking billable hours.</p>
+
+<p>Most require an account to setup before you can even enter a task and actually get to work.</p>
+
+<p>In a small team environment, you might even end up assigning one person to just master the system.</p>
+
+<p>That sole person would then be responsible for assigning &amp; maintaining the tasks.</p>
+
+<p>The Taskmaster.</p>
+
+<p>It’s ironic that something used to track time, could actually end up wasting so much of your time. 
+Your team’s time.</p>
+
+<p>Except that wasted time isn’t just a hassle - those are billable hours you’ve just lost.</p>
+
+<p><img src="assets/images/blog/listabot-v1.01/new-challenger.jpg" alt="Screen shot from Street Fighter of a new challenger appearing" /></p>
+
+<p>I’ve made  <a href="http://www.listabot.com">Listabot</a> to minimize the friction for simply tracking your billable hours spent on project tasks.</p>
+
+<p>The benefits for tracking your billable hours become apparent over time.</p>
+
+<p>Obviously, tracking your billable hours is important if you want to get paid for your work.</p>
+
+<p>But <em>how</em> you track your time can also save time when you are making estimates for your next project.</p>
+
+<p>With your past performance accurately recorded &amp; easy to analyze, you not only have a record to improve on, but a measuring stick.</p>
+
+<p>This isn’t just your invoice, this is your record to improve upon.
+A tool for spotting pain-points &amp; anticipated where more time will be spent.</p>
+
+<p>I have a roadmap of features I’m implementing incrementally.</p>
+
+<p>I’d like to begin adding these features &amp; others as they are requested by users like <em>you</em>.</p>
+
+<p>My mission with this app will always be to keep billable hour tracking <em>simple &amp; intuitive</em>.</p>
+
+<p>If you are interested in learning about new features as they are released, please join the <a href="http://eepurl.com/cKCi3n">mailing list</a> or just stay in touch on the <a href="https://www.facebook.com/listabot">Facebook page</a>.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
