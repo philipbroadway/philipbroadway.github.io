@@ -6,7 +6,7 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
-    <loc>/about</loc>
+    <loc>http://localhost:4000/about</loc>
     <lastmod>2023-03-24</lastmod>
     <priority>1.00</priority>
   </url>
@@ -14,32 +14,32 @@
 
   
   <url>
-    <loc>/evalgpt</loc>
-    <lastmod>2023-05-06</lastmod>
+    <loc>http://localhost:4000/23-evalgpt</loc>
+    <lastmod>2023-05-05</lastmod>
     <priority>1.00</priority>
   </url>
   
 
   
   <url>
-    <loc>/listabot-update</loc>
-    <lastmod>2017-04-08</lastmod>
+    <loc>http://localhost:4000/listabot-update</loc>
+    <lastmod>2017-04-07</lastmod>
     <priority>1.00</priority>
   </url>
   
 
   
   <url>
-    <loc>/project-planning</loc>
-    <lastmod>2017-04-08</lastmod>
+    <loc>http://localhost:4000/project-planning</loc>
+    <lastmod>2017-04-07</lastmod>
     <priority>1.00</priority>
   </url>
   
 
   
   <url>
-    <loc>/listabot-launch</loc>
-    <lastmod>2017-04-08</lastmod>
+    <loc>http://localhost:4000/listabot-launch</loc>
+    <lastmod>2017-04-07</lastmod>
     <priority>1.00</priority>
   </url>
   

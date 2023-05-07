@@ -4,7 +4,7 @@
     <title>Philip Broadway - Articles</title>
     <description>Application Design &amp; Development</description>
     <link>
-    </link>
+    http://localhost:4000</link>
     
       
       <item>
@@ -16,10 +16,10 @@
 
 </description>
         
-        <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 05 May 2023 18:00:00 -0600</pubDate>
         <link>
-        /evalgpt</link>
-        <guid isPermaLink="true">/evalgpt</guid>
+        http://localhost:4000/23-evalgpt</link>
+        <guid isPermaLink="true">http://localhost:4000/23-evalgpt</guid>
       </item>
       
     
@@ -31,10 +31,10 @@
 
 </description>
         
-        <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 07 Apr 2017 18:00:00 -0600</pubDate>
         <link>
-        /listabot-update</link>
-        <guid isPermaLink="true">/listabot-update</guid>
+        http://localhost:4000/listabot-update</link>
+        <guid isPermaLink="true">http://localhost:4000/listabot-update</guid>
       </item>
       
     
@@ -49,10 +49,10 @@ This is important data for you &amp;amp; for your client!&lt;/p&gt;
 
 </description>
         
-        <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 07 Apr 2017 18:00:00 -0600</pubDate>
         <link>
-        /project-planning</link>
-        <guid isPermaLink="true">/project-planning</guid>
+        http://localhost:4000/project-planning</link>
+        <guid isPermaLink="true">http://localhost:4000/project-planning</guid>
       </item>
       
     
@@ -103,10 +103,10 @@ A tool for spotting pain-points &amp;amp; anticipated where more time will be sp
 &lt;p&gt;If you are interested in learning about new features as they are released, please join the &lt;a href=&quot;http://eepurl.com/cKCi3n&quot;&gt;mailing list&lt;/a&gt; or just stay in touch on the &lt;a href=&quot;https://www.facebook.com/listabot&quot;&gt;Facebook page&lt;/a&gt;.&lt;/p&gt;
 </description>
         
-        <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 07 Apr 2017 18:00:00 -0600</pubDate>
         <link>
-        /listabot-launch</link>
-        <guid isPermaLink="true">/listabot-launch</guid>
+        http://localhost:4000/listabot-launch</link>
+        <guid isPermaLink="true">http://localhost:4000/listabot-launch</guid>
       </item>
       
     
